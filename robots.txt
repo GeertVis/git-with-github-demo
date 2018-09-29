@@ -8,4 +8,4 @@ Disallow:
 
 # some line
 # Pull request for the robots.txt
-# 2e pull request for the robots.txt
+# Push request for the robots.txt
